@@ -20,7 +20,11 @@ namespace WineFactory
 
         #endregion
         #region Methods
+
         #region Constructors
+        /// <summary>
+        /// Constructor de ProductionArea
+        /// </summary>
         public ProductionArea()
         {
             Wines = new List<Wine>();
@@ -39,7 +43,10 @@ namespace WineFactory
             wine.WineIsDone += SetToFinishedWineList;
             return this;
         }
-
+        /// <summary>
+        /// Agregar vinos terminados a la lista de vinos terminados
+        /// </summary>
+        /// <param name="wine"> vino a agrgar a la lista</param>
         private void SetToFinishedWineList(Wine wine)
         {
             FinishedWineList.Add(wine);

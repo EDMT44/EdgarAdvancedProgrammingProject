@@ -20,7 +20,11 @@ namespace WineFactory
         #endregion
         #region Methods
         #region Constructors
-
+        /// <summary>
+        /// Constructor de Fermenter
+        /// </summary>
+        /// <param name="id">Id del fermentador</param>
+        /// <param name="capacity">Capacidad en litros</param>
         public Fermenter(int id, int capacity)
         {
             Id = id;

@@ -20,12 +20,15 @@ namespace WineFactory
         #endregion
 
         #region Properties
+        /// <summary>
+        /// Timer para simular el tiempo de fermentacion
+        /// </summary>
         System.Timers.Timer FermentationTime { get; set; }
 
         /// <summary>
         /// Fermentador
         /// </summary>
-        public Fermenter? Fermenter { get; set; }
+        public Fermenter Fermenter { get; set; }
         /// <summary>
         /// Id de Lote de produccion
         /// </summary>
@@ -38,10 +41,7 @@ namespace WineFactory
         /// Sabor del vino
         /// </summary>
         public Flavors Flavor { get; private set; }    
-        /// <summary>
-        /// Grados Brix Inicial del mosto
-        /// </summary>
-        public int InitialSugarConcentration { get; private set; }
+     
         /// <summary>
         /// Estado del vino
         /// </summary>
@@ -49,7 +49,13 @@ namespace WineFactory
         #endregion
 
         #region Methods
+
         #region Constructors
+        /// <summary>
+        /// Costructor de Wine
+        /// </summary>
+        /// <param name="fermenter">Fermentador</param>
+        /// <param name="flavor">Sabor</param>
         public Wine(Fermenter fermenter, Flavors flavor)
         {
             {
@@ -76,10 +82,18 @@ namespace WineFactory
             return fermenter.Id.ToString() + Flavor.ToString() +DateTime.Now.ToString();
 ;        }
         #endregion
+        /// <summary>
+        /// Manejador del evento Timer.Elapsed
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         public void Ready(object? sender, ElapsedEventArgs e)
         {
             State = WineStates.Finished;          
         }
+        /// <summary>
+        /// Metodo para iniciar la fermentacion en un fermentador
+        /// </summary>
         public void Fermentation()
         {
             State = WineStates.Fermenting;
