@@ -23,7 +23,7 @@ namespace WineFactory
         /// <summary>
         /// Timer para simular el tiempo de fermentacion
         /// </summary>
-        System.Timers.Timer FermentationTime { get; set; }
+        public System.Timers.Timer FermentationTime { get; set; }
 
         /// <summary>
         /// Fermentador
