@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\edgar\\Source\\Repos\\EdgarAdvancedProgrammingProject\\WineFactory\\RepositoryTest\\RepositoryTest.csproj": {}
+    "C:\\Users\\edgar\\source\\repos\\EdgarAdvancedProgrammingProject\\WineFactory\\RepositoryTest\\RepositoryTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\edgar\\Source\\Repos\\EdgarAdvancedProgrammingProject\\WineFactory\\RepositoryTest\\RepositoryTest.csproj": {
+    "C:\\Users\\edgar\\source\\repos\\EdgarAdvancedProgrammingProject\\WineFactory\\RepositoryTest\\RepositoryTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\edgar\\Source\\Repos\\EdgarAdvancedProgrammingProject\\WineFactory\\RepositoryTest\\RepositoryTest.csproj",
+        "projectUniqueName": "C:\\Users\\edgar\\source\\repos\\EdgarAdvancedProgrammingProject\\WineFactory\\RepositoryTest\\RepositoryTest.csproj",
         "projectName": "RepositoryTest",
-        "projectPath": "C:\\Users\\edgar\\Source\\Repos\\EdgarAdvancedProgrammingProject\\WineFactory\\RepositoryTest\\RepositoryTest.csproj",
+        "projectPath": "C:\\Users\\edgar\\source\\repos\\EdgarAdvancedProgrammingProject\\WineFactory\\RepositoryTest\\RepositoryTest.csproj",
         "packagesPath": "C:\\Users\\edgar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\edgar\\Source\\Repos\\EdgarAdvancedProgrammingProject\\WineFactory\\RepositoryTest\\obj\\",
+        "outputPath": "C:\\Users\\edgar\\source\\repos\\EdgarAdvancedProgrammingProject\\WineFactory\\RepositoryTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\edgar\\Source\\Repos\\EdgarAdvancedProgrammingProject\\WineFactory\\Repository\\Repository.csproj": {
-                "projectPath": "C:\\Users\\edgar\\Source\\Repos\\EdgarAdvancedProgrammingProject\\WineFactory\\Repository\\Repository.csproj"
+              "C:\\Users\\edgar\\source\\repos\\EdgarAdvancedProgrammingProject\\WineFactory\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\edgar\\source\\repos\\EdgarAdvancedProgrammingProject\\WineFactory\\Repository\\Repository.csproj"
               },
-              "C:\\Users\\edgar\\Source\\Repos\\EdgarAdvancedProgrammingProject\\WineFactory\\WineFactory\\WineFactory.csproj": {
-                "projectPath": "C:\\Users\\edgar\\Source\\Repos\\EdgarAdvancedProgrammingProject\\WineFactory\\WineFactory\\WineFactory.csproj"
+              "C:\\Users\\edgar\\source\\repos\\EdgarAdvancedProgrammingProject\\WineFactory\\WineFactory\\WineFactory.csproj": {
+                "projectPath": "C:\\Users\\edgar\\source\\repos\\EdgarAdvancedProgrammingProject\\WineFactory\\WineFactory\\WineFactory.csproj"
               }
             }
           }
@@ -87,14 +87,14 @@
         }
       }
     },
-    "C:\\Users\\edgar\\Source\\Repos\\EdgarAdvancedProgrammingProject\\WineFactory\\Repository\\Repository.csproj": {
+    "C:\\Users\\edgar\\source\\repos\\EdgarAdvancedProgrammingProject\\WineFactory\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\edgar\\Source\\Repos\\EdgarAdvancedProgrammingProject\\WineFactory\\Repository\\Repository.csproj",
+        "projectUniqueName": "C:\\Users\\edgar\\source\\repos\\EdgarAdvancedProgrammingProject\\WineFactory\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "C:\\Users\\edgar\\Source\\Repos\\EdgarAdvancedProgrammingProject\\WineFactory\\Repository\\Repository.csproj",
+        "projectPath": "C:\\Users\\edgar\\source\\repos\\EdgarAdvancedProgrammingProject\\WineFactory\\Repository\\Repository.csproj",
         "packagesPath": "C:\\Users\\edgar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\edgar\\Source\\Repos\\EdgarAdvancedProgrammingProject\\WineFactory\\Repository\\obj\\",
+        "outputPath": "C:\\Users\\edgar\\source\\repos\\EdgarAdvancedProgrammingProject\\WineFactory\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -115,8 +115,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\edgar\\Source\\Repos\\EdgarAdvancedProgrammingProject\\WineFactory\\WineFactory\\WineFactory.csproj": {
-                "projectPath": "C:\\Users\\edgar\\Source\\Repos\\EdgarAdvancedProgrammingProject\\WineFactory\\WineFactory\\WineFactory.csproj"
+              "C:\\Users\\edgar\\source\\repos\\EdgarAdvancedProgrammingProject\\WineFactory\\WineFactory\\WineFactory.csproj": {
+                "projectPath": "C:\\Users\\edgar\\source\\repos\\EdgarAdvancedProgrammingProject\\WineFactory\\WineFactory\\WineFactory.csproj"
               }
             }
           }
@@ -165,14 +165,14 @@
         }
       }
     },
-    "C:\\Users\\edgar\\Source\\Repos\\EdgarAdvancedProgrammingProject\\WineFactory\\WineFactory\\WineFactory.csproj": {
+    "C:\\Users\\edgar\\source\\repos\\EdgarAdvancedProgrammingProject\\WineFactory\\WineFactory\\WineFactory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\edgar\\Source\\Repos\\EdgarAdvancedProgrammingProject\\WineFactory\\WineFactory\\WineFactory.csproj",
+        "projectUniqueName": "C:\\Users\\edgar\\source\\repos\\EdgarAdvancedProgrammingProject\\WineFactory\\WineFactory\\WineFactory.csproj",
         "projectName": "WineFactory",
-        "projectPath": "C:\\Users\\edgar\\Source\\Repos\\EdgarAdvancedProgrammingProject\\WineFactory\\WineFactory\\WineFactory.csproj",
+        "projectPath": "C:\\Users\\edgar\\source\\repos\\EdgarAdvancedProgrammingProject\\WineFactory\\WineFactory\\WineFactory.csproj",
         "packagesPath": "C:\\Users\\edgar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\edgar\\Source\\Repos\\EdgarAdvancedProgrammingProject\\WineFactory\\WineFactory\\obj\\",
+        "outputPath": "C:\\Users\\edgar\\source\\repos\\EdgarAdvancedProgrammingProject\\WineFactory\\WineFactory\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
