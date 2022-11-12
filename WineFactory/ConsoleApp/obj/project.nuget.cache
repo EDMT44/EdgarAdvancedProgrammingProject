@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "BsRF4aLb1JR5GzhjpjzypcW0sFstlyjqAcmzpsoMvYm+qA1IfMhM+kQcsXpVZYmineDxvVuYX+pWf1RrxTEAbA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\edgar\\source\\repos\\EdgarAdvancedProgrammingProject\\WineFactory\\ConsoleApp\\ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\edgar\\.nuget\\packages\\jetbrains.annotations\\2018.2.1\\jetbrains.annotations.2018.2.1.nupkg.sha512",
+    "C:\\Users\\edgar\\.nuget\\packages\\microsoft.odata.edm\\7.12.3\\microsoft.odata.edm.7.12.3.nupkg.sha512",
+    "C:\\Users\\edgar\\.nuget\\packages\\system.collections.immutable\\1.5.0\\system.collections.immutable.1.5.0.nupkg.sha512",
+    "C:\\Users\\edgar\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512",
+    "C:\\Users\\edgar\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\edgar\\.nuget\\packages\\system.text.json\\4.6.0\\system.text.json.4.6.0.nupkg.sha512",
+    "C:\\Users\\edgar\\.nuget\\packages\\thisdate\\1.0.5\\thisdate.1.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

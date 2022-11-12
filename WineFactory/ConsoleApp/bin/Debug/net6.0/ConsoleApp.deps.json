@@ -1,0 +1,126 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConsoleApp/1.0.0": {
+        "dependencies": {
+          "WineFactory": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleApp.dll": {}
+        }
+      },
+      "JetBrains.Annotations/2018.2.1": {
+        "runtime": {
+          "lib/netstandard2.0/JetBrains.Annotations.dll": {
+            "assemblyVersion": "2018.2.1.0",
+            "fileVersion": "2018.2.1.0"
+          }
+        }
+      },
+      "Microsoft.OData.Edm/7.12.3": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "4.6.0",
+          "System.Text.Encodings.Web": "4.7.2",
+          "System.Text.Json": "4.6.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.OData.Edm.dll": {
+            "assemblyVersion": "7.12.3.0",
+            "fileVersion": "7.12.3.30919"
+          }
+        }
+      },
+      "System.Collections.Immutable/1.5.0": {},
+      "System.Runtime.CompilerServices.Unsafe/4.6.0": {},
+      "System.Text.Encodings.Web/4.7.2": {},
+      "System.Text.Json/4.6.0": {},
+      "ThisDate/1.0.5": {
+        "dependencies": {
+          "JetBrains.Annotations": "2018.2.1",
+          "System.Collections.Immutable": "1.5.0"
+        },
+        "runtime": {
+          "lib/netcoreapp2.2/ThisDate.dll": {
+            "assemblyVersion": "1.0.5.0",
+            "fileVersion": "1.0.5.0"
+          }
+        }
+      },
+      "WineFactory/1.0.0": {
+        "dependencies": {
+          "Microsoft.OData.Edm": "7.12.3",
+          "ThisDate": "1.0.5"
+        },
+        "runtime": {
+          "WineFactory.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "JetBrains.Annotations/2018.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/aPVHEW93EV1Httnbniz0Cty5+jrXobS27I8QBnIUMe0n51qgxLyQV2AQNko4yXkeOxEdWiZ7bg9+BuMxYbXcA==",
+      "path": "jetbrains.annotations/2018.2.1",
+      "hashPath": "jetbrains.annotations.2018.2.1.nupkg.sha512"
+    },
+    "Microsoft.OData.Edm/7.12.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-J4mEtFcLyWBsNFycgOEbbeoocpyP4j7EedoQgsvm0jL77ygCz/SLNAuimlWY1bB5aLax39n4Sn0DrcTH+8C0bQ==",
+      "path": "microsoft.odata.edm/7.12.3",
+      "hashPath": "microsoft.odata.edm.7.12.3.nupkg.sha512"
+    },
+    "System.Collections.Immutable/1.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-EXKiDFsChZW0RjrZ4FYHu9aW6+P4MCgEDCklsVseRfhoO0F+dXeMSsMRAlVXIo06kGJ/zv+2w1a2uc2+kxxSaQ==",
+      "path": "system.collections.immutable/1.5.0",
+      "hashPath": "system.collections.immutable.1.5.0.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/4.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HxozeSlipUK7dAroTYwIcGwKDeOVpQnJlpVaOkBz7CM4TsE5b/tKlQBZecTjh6FzcSbxndYaxxpsBMz+wMJeyw==",
+      "path": "system.runtime.compilerservices.unsafe/4.6.0",
+      "hashPath": "system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+    },
+    "System.Text.Encodings.Web/4.7.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-iTUgB/WtrZ1sWZs84F2hwyQhiRH6QNjQv2DkwrH+WP6RoFga2Q1m3f9/Q7FG8cck8AdHitQkmkXSY8qylcDmuA==",
+      "path": "system.text.encodings.web/4.7.2",
+      "hashPath": "system.text.encodings.web.4.7.2.nupkg.sha512"
+    },
+    "System.Text.Json/4.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-4F8Xe+JIkVoDJ8hDAZ7HqLkjctN/6WItJIzQaifBwClC7wmoLSda/Sv2i6i1kycqDb3hWF4JCVbpAweyOKHEUA==",
+      "path": "system.text.json/4.6.0",
+      "hashPath": "system.text.json.4.6.0.nupkg.sha512"
+    },
+    "ThisDate/1.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6EmvybcRVaATWp4ybO+tcARyfw9vcbmjyux1QBleTUho1AGKR0evcBnDYgJMYReUoC7un2ekZpxKR1NcOC6big==",
+      "path": "thisdate/1.0.5",
+      "hashPath": "thisdate.1.0.5.nupkg.sha512"
+    },
+    "WineFactory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
