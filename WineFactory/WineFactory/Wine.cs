@@ -29,19 +29,19 @@ namespace WineFactory
         /// <summary>
         /// Id de Lote de produccion
         /// </summary>
-        public string BatchId { get; private set; }
+        public string BatchId { get; set; }
+        /// <summary>
+        /// id del vino para busqqueda
+        /// </summary>
+        public int ID { get; private set; }
         /// <summary>
         /// Fecha en la que se monto el vino
         /// </summary>
-        public DateTime Date { get; private set; }
+        public DateTime Date { get; set; }
         /// <summary>
         /// Sabor del vino
         /// </summary>
         public Flavors Flavor { get; private set; }    
-        /// <summary>
-        /// Grados Brix Inicial del mosto
-        /// </summary>
-        public int InitialSugarConcentration { get; private set; }
         /// <summary>
         /// Estado del vino
         /// </summary>
@@ -50,18 +50,18 @@ namespace WineFactory
 
         #region Methods
         #region Constructors
-        public Wine(Fermenter fermenter, Flavors flavor)
+        public Wine(Fermenter fermenter, Flavors flavor,int id)
         {
-            {
-                FermentationTime = new System.Timers.Timer();
-                FermentationTime.Interval = 500;
-                FermentationTime.Elapsed += Ready;
-                Flavor = flavor;
-                Date = DateTime.Now;
-                BatchId = CreateBatchId(fermenter,flavor);
-                State = WineStates.Iddle;
-                Fermenter = fermenter;
-            }
+            ID = id;
+            FermentationTime = new System.Timers.Timer();
+            FermentationTime.Interval = 500;
+            FermentationTime.Elapsed += Ready;
+            Flavor = flavor;
+            Date = DateTime.Now;
+            BatchId = CreateBatchId(fermenter,flavor);
+            State = WineStates.Iddle;
+            Fermenter = fermenter;
+         
 
         }
         #endregion

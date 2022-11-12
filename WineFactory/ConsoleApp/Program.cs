@@ -15,11 +15,11 @@ namespace ConsoleApplication
             Fermenter f4 = new Fermenter(4, 200);
             Fermenter f5 = new Fermenter(5, 200);
             //creando vinos
-            Wine w1 = new Wine(f1, Flavors.Orange);
-            Wine w2 = new Wine(f2, Flavors.Honey);
-            Wine w3 = new Wine(f3, Flavors.Honey);
-            Wine w4 = new Wine(f4, Flavors.Tamarind);
-            Wine w5 = new Wine(f5, Flavors.Grape);
+            Wine w1 = new Wine(f1, Flavors.Orange,1);
+            Wine w2 = new Wine(f2, Flavors.Honey,2);
+            Wine w3 = new Wine(f3, Flavors.Honey,3);
+            Wine w4 = new Wine(f4, Flavors.Tamarind,4);
+            Wine w5 = new Wine(f5, Flavors.Grape,5);
             //creando area de produccion
             ProductionArea Area1 = new ProductionArea();
             //agragando vinos al area
