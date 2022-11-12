@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n2Eqf1XQU302dQjLs5829bgZHbjCMjr73GdKEXjfBxRyYlEgzrO6J4c7PXez23Rzsw6j+hVhw6vwC0nORWFHyQ==",
+  "dgSpecHash": "3OsvjPJjsTsPUiVq/Y8ZeGARglvjtm30VukSdr6vP4kMTH7cqosyCEJj1RJPvV1n32VjZRTve2NXsUAz05u0Ig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\edgar\\source\\repos\\EdgarAdvancedProgrammingProject\\WineFactory\\WineFactory\\WineFactory.csproj",
+  "projectFilePath": "C:\\Users\\edgar\\Documents\\EdgarAdvancedProgrammingProject\\WineFactory\\WineFactory\\WineFactory.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\edgar\\.nuget\\packages\\jetbrains.annotations\\2018.2.1\\jetbrains.annotations.2018.2.1.nupkg.sha512",
     "C:\\Users\\edgar\\.nuget\\packages\\microsoft.odata.edm\\7.12.3\\microsoft.odata.edm.7.12.3.nupkg.sha512",

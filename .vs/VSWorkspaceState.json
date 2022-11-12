@@ -1,12 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\WineFactory",
-    "\\WineFactory\\ConsoleApp",
-    "\\WineFactory\\Repository",
-    "\\WineFactory\\RepositoryTest",
-    "\\WineFactory\\WineFactory"
+    ""
   ],
-  "SelectedNode": "\\WineFactory\\WineFactory\\Wine.cs",
+  "SelectedNode": "\\WebServTest.sln",
   "PreviewInSolutionExplorer": false
 }

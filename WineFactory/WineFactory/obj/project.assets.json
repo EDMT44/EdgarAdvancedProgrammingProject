@@ -243,11 +243,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\edgar\\source\\repos\\EdgarAdvancedProgrammingProject\\WineFactory\\WineFactory\\WineFactory.csproj",
+      "projectUniqueName": "C:\\Users\\edgar\\Documents\\EdgarAdvancedProgrammingProject\\WineFactory\\WineFactory\\WineFactory.csproj",
       "projectName": "WineFactory",
-      "projectPath": "C:\\Users\\edgar\\source\\repos\\EdgarAdvancedProgrammingProject\\WineFactory\\WineFactory\\WineFactory.csproj",
+      "projectPath": "C:\\Users\\edgar\\Documents\\EdgarAdvancedProgrammingProject\\WineFactory\\WineFactory\\WineFactory.csproj",
       "packagesPath": "C:\\Users\\edgar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\edgar\\source\\repos\\EdgarAdvancedProgrammingProject\\WineFactory\\WineFactory\\obj\\",
+      "outputPath": "C:\\Users\\edgar\\Documents\\EdgarAdvancedProgrammingProject\\WineFactory\\WineFactory\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
