@@ -1,0 +1,12 @@
+C:\Users\edgar\source\repos\EdgarAdvancedProgrammingProject\WineFactory\WineFactory\bin\Debug\net6.0\WineFactory.deps.json
+C:\Users\edgar\source\repos\EdgarAdvancedProgrammingProject\WineFactory\WineFactory\bin\Debug\net6.0\WineFactory.dll
+C:\Users\edgar\source\repos\EdgarAdvancedProgrammingProject\WineFactory\WineFactory\bin\Debug\net6.0\WineFactory.pdb
+C:\Users\edgar\source\repos\EdgarAdvancedProgrammingProject\WineFactory\WineFactory\obj\Debug\net6.0\WineFactory.csproj.AssemblyReference.cache
+C:\Users\edgar\source\repos\EdgarAdvancedProgrammingProject\WineFactory\WineFactory\obj\Debug\net6.0\WineFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edgar\source\repos\EdgarAdvancedProgrammingProject\WineFactory\WineFactory\obj\Debug\net6.0\WineFactory.AssemblyInfoInputs.cache
+C:\Users\edgar\source\repos\EdgarAdvancedProgrammingProject\WineFactory\WineFactory\obj\Debug\net6.0\WineFactory.AssemblyInfo.cs
+C:\Users\edgar\source\repos\EdgarAdvancedProgrammingProject\WineFactory\WineFactory\obj\Debug\net6.0\WineFactory.csproj.CoreCompileInputs.cache
+C:\Users\edgar\source\repos\EdgarAdvancedProgrammingProject\WineFactory\WineFactory\obj\Debug\net6.0\WineFactory.dll
+C:\Users\edgar\source\repos\EdgarAdvancedProgrammingProject\WineFactory\WineFactory\obj\Debug\net6.0\refint\WineFactory.dll
+C:\Users\edgar\source\repos\EdgarAdvancedProgrammingProject\WineFactory\WineFactory\obj\Debug\net6.0\WineFactory.pdb
+C:\Users\edgar\source\repos\EdgarAdvancedProgrammingProject\WineFactory\WineFactory\obj\Debug\net6.0\ref\WineFactory.dll
