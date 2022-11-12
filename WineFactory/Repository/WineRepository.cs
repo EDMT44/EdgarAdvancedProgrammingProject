@@ -9,10 +9,12 @@ namespace Repository
 {
     public partial class DBRepository : IWineRepository
     {
-        public Wine CreateWine(Fermenter fermenter, Flavors flavor,int id)
+        public Wine CreateWine(Fermenter fermenter, Flavors flavor,int id, string batchId, WineStates state, DateTime date)
         {
             var wine = new Wine(fermenter, flavor, id);
-           
+            wine.BatchId = batchId; 
+            wine.State = state;
+            wine.Date = date;
             Add(wine);
             return wine;
         }

@@ -30,7 +30,7 @@ namespace RepositoryTest
      
            // act
            _repository.BeginTransaction();
-           var wine = _repository.CreateWine( fermenter,flavor,id);
+           var wine = _repository.CreateWine( fermenter,flavor,id,batchId,state,date);
            _repository.CommitTransaction();
      
            // assert

@@ -73,7 +73,7 @@ namespace Repository
             var optionsBuilder = new DbContextOptionsBuilder<RepositoryContext>();
             try
             {
-                var connectionString = @"Data Source=ADRIANA-PC\SQLEXPRESS;AttachDBFilename=D:\cujae\Programación Avanzada\Código\DB\HumanResourcesDB.mdf;Initial Catalog=HumanResourcesDB;User ID=sa;Password=qwerty";
+                var connectionString = @"Data Source=Edgar_Diego-PC\SQLEXPRESS;AttachDBFilename=C:\Escuela\CUJAE\Tercero\Programación Avanzada\Código\DB\ProductionAreaDB.mdf;Initial Catalog=ProductionAreaDB;User ID=sa;Password=12345";
                 optionsBuilder.UseSqlServer(connectionString);
             }
             catch (Exception)

@@ -13,7 +13,7 @@ namespace Repository
     /// </summary>
     public interface IWineRepository : IRepository
     {
-        Wine CreateWine(Fermenter fermenter, Flavors flavor, int id);
+        Wine CreateWine(Fermenter fermenter, Flavors flavor, int id, string batchId, WineStates state, DateTime date);
      
         void UpdateWine(Wine wine);
 
